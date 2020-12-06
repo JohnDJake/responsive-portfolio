@@ -2,3 +2,7 @@ body {
     /* Background pattern from Toptal Subtle Patterns */
     background-image: url(../images/webb.png);
 }
+
+#headshot {
+    float: left;
+}
