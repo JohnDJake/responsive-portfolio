@@ -1,6 +1,19 @@
+:root {
+    /* variable so I can easily change my accent color everywhere I use it */
+    --accent-color: steelblue;
+}
+
 body {
     /* Background pattern from Toptal Subtle Patterns */
     background-image: url(../images/webb.png);
+}
+
+.bg-accent {
+    background-color: var(--accent-color);
+}
+
+.text-accent {
+    color: var(--accent-color);
 }
 
 #headshot {
