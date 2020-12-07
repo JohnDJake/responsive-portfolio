@@ -2,9 +2,17 @@
 
 ## Description
 
-This is a portfolio website created with a responsive layout using Bootstrap. The home page has a brief description of my professional experience, as well as links to my Github and Linkedin profiles.
+This is a portfolio website created with a responsive layout using Bootstrap. The home page has a brief description of my professional experience, as well as links to my Github and Linkedin profiles. The portfolio page has a responsive grid with placeholder images, and the contact page has a placeholder form.
+
+In creating this project I learned the general usage for responsive layouts with Bootstrap.
 
 [Deployed here on Github Pages](https://johndjake.github.io/responsive-portfolio/).
+
+
+## Usage
+
+Navigate the site using the navbar at the top of the page.
+![Screenshot of the home page](assets/images/screenshot.png)
 
 
 ## Credits
