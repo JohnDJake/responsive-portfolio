@@ -8,14 +8,17 @@ body {
     background-image: url(../images/webb.png);
 }
 
+/* class to set the background to my accent color */
 .bg-accent {
     background-color: var(--accent-color);
 }
 
+/* class to set the text color to my accent color */
 .text-accent {
     color: var(--accent-color);
 }
 
+/* float my headshot image to the left so the text wraps around it */
 #headshot {
     float: left;
 }
