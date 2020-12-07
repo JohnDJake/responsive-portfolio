@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a portfolio website created with a responsive layout using Bootstrap.
+This is a portfolio website created with a responsive layout using Bootstrap. The home page has a brief description of my professional experience, as well as links to my Github and Linkedin profiles.
 
 
 ## Credits
